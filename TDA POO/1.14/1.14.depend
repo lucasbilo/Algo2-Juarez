@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1590279219 source:c:\users\lucas\onedrive\escritorio\facultad\algo2\tda poo\1.14\main.cpp
+	<iostream>
+	"Alarma.h"
+
+1590278493 source:c:\users\lucas\onedrive\escritorio\facultad\algo2\tda poo\1.14\alarma.cpp
+	"Alarma.h"
+
+1590284560 c:\users\lucas\onedrive\escritorio\facultad\algo2\tda poo\1.14\alarma.h
+

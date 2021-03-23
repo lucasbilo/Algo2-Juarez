@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1588295800 source:c:\users\lucas\onedrive\escritorio\facultad\algo2\clase2804\main.cpp
+	<iostream>
+	"contactos.h"
+	"menus.h"
+	<fstream>
+
+1588297040 c:\users\lucas\onedrive\escritorio\facultad\algo2\clase2804\contactos.h
+	<fstream>
+
+1588295998 c:\users\lucas\onedrive\escritorio\facultad\algo2\clase2804\menus.h
+	<iostream>
+	"contactos.h"
+
+1588295814 source:c:\users\lucas\onedrive\escritorio\facultad\algo2\clase2804\menus.cpp
+	"menus.h"
+	"contactos.h"
+
+1588298118 source:c:\users\lucas\onedrive\escritorio\facultad\algo2\clase2804\contactos.cpp
+	"contactos.h"
+	<iostream>
+

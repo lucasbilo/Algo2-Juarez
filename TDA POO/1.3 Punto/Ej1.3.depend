@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1588963438 source:c:\users\lucas\onedrive\escritorio\facultad\algo2\tda poo\ej1.3\main.cpp
+	<iostream>
+	"punto.h"
+
+1588965076 c:\users\lucas\onedrive\escritorio\facultad\algo2\tda poo\ej1.3\punto.h
+
+1588965228 source:c:\users\lucas\onedrive\escritorio\facultad\algo2\tda poo\ej1.3\punto.cpp
+	"punto.h"
+	<iostream>
+	<cmath>
+

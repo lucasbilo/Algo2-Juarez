@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1588462839 source:c:\users\lucas\onedrive\escritorio\facultad\algo2\tda poo\fracciones\main.cpp
+	"fraccion.h"
+
+1588462740 c:\users\lucas\onedrive\escritorio\facultad\algo2\tda poo\fracciones\fraccion.h
+	<string>
+
+1588462756 source:c:\users\lucas\onedrive\escritorio\facultad\algo2\tda poo\fracciones\fraccion.cpp
+	"fraccion.h"
+	<iostream>
+

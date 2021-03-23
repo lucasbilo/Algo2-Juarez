@@ -1,0 +1,4 @@
+#CLion stuff
+/cmake-build-debug/
+CMakeLists.txt
+.idea/*

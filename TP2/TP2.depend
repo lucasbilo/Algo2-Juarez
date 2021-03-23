@@ -1,0 +1,79 @@
+# depslib dependency file v1.0
+1589764132 source:c:\users\lucas\onedrive\escritorio\tp2\main.cpp
+	<iostream>
+	"ahorcado.h"
+	"herramientas_juego.h"
+	"extras.h"
+
+1590094945 c:\users\lucas\onedrive\escritorio\tp2\ahorcado.h
+	<string>
+
+1589742606 c:\users\lucas\onedrive\escritorio\tp2\menu_de_juego.h
+	<string>
+
+1589764070 source:c:\users\lucas\onedrive\escritorio\tp2\ahorcado.cpp
+	"ahorcado.h"
+	"herramientas_juego.h"
+	"extras.h"
+	<iostream>
+	<ctype.h>
+
+1589742353 source:c:\users\lucas\onedrive\escritorio\tp2\menu_de_juego.cpp
+	"menu_de_juego.h"
+	"extras.h"
+	<iostream>
+	<cstdlib>
+	<time.h>
+
+1589942351 source:c:\users\lucas\onedrive\escritorio\tp2\extras.cpp
+	<iostream>
+	<cctype>
+	"extras.h"
+
+1589745867 c:\users\lucas\onedrive\escritorio\tp2\extras.h
+	<string>
+
+1589914385 source:c:\users\lucas\onedrive\escritorio\tp2\herramientas_juego.cpp
+	"herramientas_juego.h"
+	"extras.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1589746391 c:\users\lucas\onedrive\escritorio\tp2\herramientas_juego.h
+	<string>
+
+1590363523 source:c:\users\lucas\onedrive\escritorio\facultad\algo2\tp2\ahorcado.cpp
+	"ahorcado.h"
+	"herramientas_juego.h"
+	"extras.h"
+	<iostream>
+	<ctype.h>
+
+1590095584 c:\users\lucas\onedrive\escritorio\facultad\algo2\tp2\ahorcado.h
+	<string>
+
+1589746391 c:\users\lucas\onedrive\escritorio\facultad\algo2\tp2\herramientas_juego.h
+	<string>
+
+1589745867 c:\users\lucas\onedrive\escritorio\facultad\algo2\tp2\extras.h
+	<string>
+
+1589942351 source:c:\users\lucas\onedrive\escritorio\facultad\algo2\tp2\extras.cpp
+	<iostream>
+	<cctype>
+	"extras.h"
+
+1589914385 source:c:\users\lucas\onedrive\escritorio\facultad\algo2\tp2\herramientas_juego.cpp
+	"herramientas_juego.h"
+	"extras.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1589764132 source:c:\users\lucas\onedrive\escritorio\facultad\algo2\tp2\main.cpp
+	<iostream>
+	"ahorcado.h"
+	"herramientas_juego.h"
+	"extras.h"
+

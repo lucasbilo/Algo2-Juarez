@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1588962516 source:c:\users\lucas\onedrive\escritorio\facultad\algo2\tda poo\ej1\nota.cpp
+	"Nota.h"
+
+1588962377 c:\users\lucas\onedrive\escritorio\facultad\algo2\tda poo\ej1\nota.h
+
+1588962690 source:c:\users\lucas\onedrive\escritorio\facultad\algo2\tda poo\ej1\main.cpp
+	<iostream>
+	"Nota.h"
+

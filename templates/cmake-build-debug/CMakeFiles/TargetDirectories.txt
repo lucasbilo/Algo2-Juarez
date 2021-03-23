@@ -1,0 +1,3 @@
+C:/Users/lucas/OneDrive/Escritorio/FACULTAD/ALGO2/templates/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/lucas/OneDrive/Escritorio/FACULTAD/ALGO2/templates/cmake-build-debug/CMakeFiles/templates.dir
+C:/Users/lucas/OneDrive/Escritorio/FACULTAD/ALGO2/templates/cmake-build-debug/CMakeFiles/rebuild_cache.dir

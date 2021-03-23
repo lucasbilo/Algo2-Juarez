@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1599152948 source:c:\users\lucas\onedrive\escritorio\final_algo2\implementacion\buscador_de_comidas.cpp
+
+1599172330 source:c:\users\lucas\onedrive\escritorio\final_algo2\implementacion\alimento.cpp
+	"alimento.h"
+
+1599156718 c:\users\lucas\onedrive\escritorio\final_algo2\implementacion\alimento.h
+	"lista.h"
+
+1599157745 c:\users\lucas\onedrive\escritorio\final_algo2\implementacion\lista.h
+	<iostream>
+	"nodo.h"
+
+1599157206 c:\users\lucas\onedrive\escritorio\final_algo2\implementacion\nodo.h
+
+1599172411 source:c:\users\lucas\onedrive\escritorio\final_algo2\implementacion\main.cpp
+	<iostream>
+	"alimento.h"
+	"universidad.h"
+	"buscador_uni.h"
+	"lista.h"
+
+1599171369 source:c:\users\lucas\onedrive\escritorio\final_algo2\implementacion\universidad.cpp
+	"universidad.h"
+
+1599171372 c:\users\lucas\onedrive\escritorio\final_algo2\implementacion\universidad.h
+	"lista.h"
+
+1599172288 source:c:\users\lucas\onedrive\escritorio\final_algo2\implementacion\buscador_uni.cpp
+	"buscador_uni.h"
+	<iostream>
+
+1599170605 c:\users\lucas\onedrive\escritorio\final_algo2\implementacion\buscador_uni.h
+	"lista.h"
+	"universidad.h"
+
+1599161576 c:\users\lucas\onedrive\escritorio\final_algo2\implementacion\extra.cpp
+	"lista.h"
+
+1599161576 source:c:\users\lucas\onedrive\escritorio\final_algo2\implementacion\extra.cpp
+	"lista.h"
+
+1599177685 source:c:\users\lucas\onedrive\escritorio\final_algo2\implementacion\buscador_rest.cpp
+	"buscador_rest.h"
+
+1599177064 c:\users\lucas\onedrive\escritorio\final_algo2\implementacion\buscador_rest.h
+	"restaurante.h"
+
+1599176397 c:\users\lucas\onedrive\escritorio\final_algo2\implementacion\restaurante.h
+	"lista.h"
+
+1599176303 source:c:\users\lucas\onedrive\escritorio\final_algo2\implementacion\restaurante.cpp
+	"restaurante.h"
+

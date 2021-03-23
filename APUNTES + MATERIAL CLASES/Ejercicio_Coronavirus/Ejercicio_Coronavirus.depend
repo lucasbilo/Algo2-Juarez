@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1587239108 source:c:\users\lucas\onedrive\escritorio\facultad\algo2\ejercicios c++\ejercicio_coronavirus\main.cpp
+	<iostream>
+	<fstream>
+

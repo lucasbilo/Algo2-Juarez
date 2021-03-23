@@ -1,0 +1,16 @@
+int main(int argc,char* argv[])
+{
+    int i;
+    cout<<"El nombre del programa es" << argv[0]<<endl;
+
+    if(argc==1)
+        cout<<"No hay comando de linea extra pasado mas que el nombre del programa"<<endl;
+    if(argc>=2)
+    {
+        cout<<"Numero de argumentos pasados:" << argc<<endl;
+        cout<<"Los argumentos pasados fueron: ";
+        for(i=0;i<argc;i++)
+            cout<<"argv["<<i<<"]: "<<argv[i]<<endl;
+    }
+    return 0;
+}

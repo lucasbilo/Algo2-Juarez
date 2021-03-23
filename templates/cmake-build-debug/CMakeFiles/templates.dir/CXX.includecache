@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/lucas/OneDrive/Escritorio/FACULTAD/ALGO2/templates/lista.h
+iostream
+-
+nodo.h
+C:/Users/lucas/OneDrive/Escritorio/FACULTAD/ALGO2/templates/nodo.h
+
+C:/Users/lucas/OneDrive/Escritorio/FACULTAD/ALGO2/templates/main.cpp
+iostream
+-
+lista.h
+C:/Users/lucas/OneDrive/Escritorio/FACULTAD/ALGO2/templates/lista.h
+
+C:/Users/lucas/OneDrive/Escritorio/FACULTAD/ALGO2/templates/nodo.h
+

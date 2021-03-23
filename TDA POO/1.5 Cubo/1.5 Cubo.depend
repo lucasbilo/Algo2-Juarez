@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1588973045 source:c:\users\lucas\onedrive\escritorio\facultad\algo2\tda poo\1.5 cubo\cubo.cpp
+	"cubo.h"
+	<cmath>
+
+1588972324 c:\users\lucas\onedrive\escritorio\facultad\algo2\tda poo\1.5 cubo\cubo.h
+
+1588973135 source:c:\users\lucas\onedrive\escritorio\facultad\algo2\tda poo\1.5 cubo\main.cpp
+	<iostream>
+	"cubo.h"
+

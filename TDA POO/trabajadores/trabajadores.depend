@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1590263947 source:c:\users\lucas\onedrive\escritorio\facultad\algo2\tda poo\trabajadores\aleatorios.cpp
+	"aleatorios.h"
+
+1590114954 c:\users\lucas\onedrive\escritorio\facultad\algo2\tda poo\trabajadores\aleatorios.h
+	<string>
+
+1590263970 source:c:\users\lucas\onedrive\escritorio\facultad\algo2\tda poo\trabajadores\main.cpp
+	<iostream>
+	<ctime>
+	"trabajador.h"
+	"aleatorios.h"
+
+1590264023 c:\users\lucas\onedrive\escritorio\facultad\algo2\tda poo\trabajadores\trabajador.h
+	<string>
+
+1590262647 source:c:\users\lucas\onedrive\escritorio\facultad\algo2\tda poo\trabajadores\trabajador.cpp
+	"trabajador.h"
+	<iostream>
+

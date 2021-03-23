@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1599100246 source:c:\users\lucas\onedrive\escritorio\final_algo2\final\main.cpp
+	<iostream>
+	"lista.h"
+
+1599099648 c:\users\lucas\onedrive\escritorio\final_algo2\final\lista.h
+	"nodo.h"
+
+1599066138 c:\users\lucas\onedrive\escritorio\final_algo2\final\nodo.h
+	<iostream>
+
+1599066132 source:c:\users\lucas\onedrive\escritorio\final_algo2\final\nodo.cpp
+	"nodo.h"
+
+1599099510 source:c:\users\lucas\onedrive\escritorio\final_algo2\final\lista.cpp
+	"lista.h"
+	<iostream>
+

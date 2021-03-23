@@ -1,0 +1,41 @@
+Diamantes en bruto
+Drama Suspenso
+7
+Josh Safdie
+Adam_Sandler Lakeith_Stanfield Julia_Fox Kevin_Garnett Idina_Menzel Eric_Bogosian Judd_Hirsch
+
+El lobo de Wall Street
+Comedia negra
+8
+Martin Scorcece
+Leonardo_DiCaprio Jonah_Hill Margot_Robbie Jean_Dujardin Rob_Reiner Kyle_Chandler Matthew_McConaughey
+
+El ciudadano ilustre
+Comedia Drama
+6
+Gaston Duprat
+Oscar_Martinez Dady_Brieva Andrea_Frigerio Belen_Chavanne
+
+Avatar
+Ciencia ficcion
+8
+James Cameron
+Sam_Worthington Zoe_Saldania Sigourney_Weaver Stephen_Lang Michelle_Rodriguez
+
+Avengers Endgame
+Superheroes
+8
+Anthony y Joe Russo
+Robert_Downey_Jr Chris_Evans Mark_Ruffalo Chris_Hemsworth Scarlett_Johansson Jeremy_Renner Don_Cheadle Paul_Rudd
+
+Pixels
+Comedia
+5
+Chris Columbus
+Adam_Sandler Kevin_James Michelle_Monaghan Peter_Dinklage Josh_Gad Brian_Cox Ashley_Benson Jane_Krakowski
+
+Catch me if you can
+Comedia dramatica
+6
+Steven Spielberg
+Leonardo_DiCaprio Tom_Hanks Christopher_Walken

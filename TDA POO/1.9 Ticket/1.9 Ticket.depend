@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1314894556 source:c:\users\lucas\onedrive\escritorio\facultad\algo2\tda poo\1.9 ticket\main.cpp
+	<iostream>
+
+1589128913 source:c:\users\lucas\onedrive\escritorio\facultad\algo2\tda poo\1.9 ticket\ticket.cpp
+	"ticket.h"
+
+1589128875 c:\users\lucas\onedrive\escritorio\facultad\algo2\tda poo\1.9 ticket\ticket.h
+

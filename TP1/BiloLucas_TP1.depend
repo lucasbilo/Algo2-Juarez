@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1587840124 source:c:\users\lucas\onedrive\escritorio\facultad\algo2\bilolucas_tp1\main.cpp
+	"consola.h"
+	<fstream>
+
+1587839778 c:\users\lucas\onedrive\escritorio\facultad\algo2\bilolucas_tp1\consola.h
+	<string>
+
+1587839847 source:c:\users\lucas\onedrive\escritorio\facultad\algo2\bilolucas_tp1\consola.cpp
+	"consola.h"
+	<cstdlib>
+
+1587839847 source:c:\users\lucas\onedrive\escritorio\bilolucas_tp1\consola.cpp
+	"consola.h"
+	<cstdlib>
+
+1587840387 c:\users\lucas\onedrive\escritorio\bilolucas_tp1\consola.h
+	<string>
+
